@@ -1,8 +1,12 @@
-
+* {
+    box-sizing: content-box ;
+    
+}
 .row {
     display: flex;
     flex-direction: row;
     flex-wrap:wrap;
+
 }
 .column {
     display:flex;
